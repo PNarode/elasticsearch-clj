@@ -8,4 +8,6 @@
   				 [clj-http "0.9.1"]
   				 [http-kit "2.1.18"]
   				 [cheshire "5.3.1"]]
-  :main elasticsearch-clj.core)
+  :main elasticsearch-clj.core
+  :scm {:name "git"
+         :url "https://github.com/PNarode/elasticsearch-clj"})
